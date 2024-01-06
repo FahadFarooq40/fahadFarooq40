@@ -27,14 +27,42 @@ Passionate Software Engineer | PHP Developer | Flutter Enthusiast | Open Source 
 
 ## Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+<div>
+
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap">
+  </a>
+  
+  <a href="https://flutter.dev/" target="_blank">
+    <img height="50" src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter">
+  </a>
+  
+  <a href="https://dart.dev/" target="_blank">
+    <img height="50" src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart">
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img height="50" src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript">
+  </a>
+  
+  <a href="https://developer.android.com/" target="_blank">
+    <img height="50" src="https://img.icons8.com/color/50/000000/android-os.png" alt="Android">
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img height="50" src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML">
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img height="50" src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS">
+  </a>
+  
+  <a href="https://www.php.net/" target="_blank">
+    <img height="45" src="https://img.icons8.com/color/50/000000/php.png" alt="PHP">
+  </a>
+  
+</div>
+
 
 ## GitHub Stats:
 
