@@ -1,6 +1,6 @@
 # Hey Everyone! 👋 I'm Fahad Farooq.
 
-Passionate Software Engineer | PHP Developer | Flutter Enthusiast | Open Source Advocate | Always Coding, Always Learning 🚀💻👨‍💻
+Passionate Software Engineer | Java Android Developer | Flutter Enthusiast | Open Source Advocate | Always Coding, Always Learning 🚀💻👨‍💻
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
