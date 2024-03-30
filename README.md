@@ -16,7 +16,7 @@ Passionate Software Engineer | Java Android Developer | Flutter Enthusiast | Ope
 <a href="https://www.linkedin.com/in/fahad-farooq-178b4821b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-<a href="https://www.instagram.com/fahad_farooq12/">
+<a href="https://www.instagram.com/fahadfarooq16/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 <a href="https://www.facebook.com/profile.php?id=100045367780324">
